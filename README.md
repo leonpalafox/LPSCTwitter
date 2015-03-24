@@ -16,5 +16,19 @@ In the file ```tweetAnalysis.py``` you need to add the fields ```consumer_key```
 You can find those in https://apps.twitter.com/ by generating your own app, I usually just do a dummy app to generate the fields. These access codes are personalized, so that is the reason I'm not putting them in my code.
 
 
+#Requirements
 
+Both tweepy and nltk are required to do the plots.
+
+##Tweepy
+
+Tweepy is a python implementation of the Twitter API, is just a handy way to write queries without actually doing it by hand on Python.
+
+Tweepy Installation: https://github.com/tweepy/tweepy
+
+##NLTK
+
+NLTK is an uber powerful NLP library that is probably being underutilized here, you will have to download the stopword corpus before running this using the instruction nltk.download()
+
+NLTK Installation: http://www.nltk.org/install.html
 
