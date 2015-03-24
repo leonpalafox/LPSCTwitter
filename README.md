@@ -51,7 +51,7 @@ If you wish to look for other hastags, just change ```query = #LPSC2015``` to wh
 
 After running it, you'll get a file called ```tweets_lpsc.p``` which has all the twits that you called (about 80 MB), I recommend running this once every 15 minutes, since twitter gets picky if you make too many calls.
 
-Then, you can run ```analyse_lpsc_tweets.py``` which generates the plots, everything is really hard coded for the LPSC week, like the day flag, whcih checks for particular days of the month.
+Then, you can run ```analyse_lpsc_tweets.py``` which generates the plots, everything is really hard coded for the LPSC week, like the day flag, which checks for particular days of the month.
 
 Let me know if you have any questions
 
