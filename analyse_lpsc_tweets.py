@@ -1,4 +1,5 @@
 #This library loads the tweets that were saved with the hashtag LPSC
+#To run this, you need to have run tweetAnalysis.py first
 import sys
 import pickle
 from pytz import timezone
