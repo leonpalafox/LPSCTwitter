@@ -55,7 +55,3 @@ Then, you can run ```analyse_lpsc_tweets.py``` which generates the plots, everyt
 
 Let me know if you have any questions
 
-
-
-
-You'll create a file about 
